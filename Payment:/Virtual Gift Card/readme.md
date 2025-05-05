@@ -2,7 +2,9 @@
 They alllow a Virtual Gift Card payment! Find another way, to transfer money out! 
 
 
-## Out to: OnePay
+# Transfer Balance out:
+## Works:
+### OnePay
 Can add card to "Walmart's" *OnePay App*!
 - Minimum transfer However is $25
 
